@@ -10,7 +10,13 @@ locke states that it consists of "the perception of the agreement or disagreemen
 # 3: What are the four sorts of agreement or disagreement of ideas? Identify and provdie a brief explanation of each.
 
 > "I. Identity, or diversity. II Relation III Co-existence, or necessary connection IV Real existence"
-### Identity, or diversity
+## Identity, or diversity
+
+## Relation
+
+## Co-existence, or necessary connection
+
+## Real existence
 # 4: What are the two types of knowledge Locke idnetifies, and wjat are their characteristics? (N.B.: One of the two types has two different degrees; discuss both degrees.)
 
 
