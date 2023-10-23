@@ -19,7 +19,7 @@ It is the ability to distinguish *abstract* relations, ie. wood and steel are bo
 
 ## Co-existence, or necessary connection
 
-> # test
+
 
 ## Real existence
 
