@@ -19,7 +19,12 @@ It is the ability to distinguish *abstract* relations, ie. wood and steel are bo
 
 ## Co-existence, or necessary connection
 
+> # test
+
 ## Real existence
+
+
+
 # 4: What are the two types of knowledge Locke idnetifies, and wjat are their characteristics? (N.B.: One of the two types has two different degrees; discuss both degrees.)
 
 
