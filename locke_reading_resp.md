@@ -1,7 +1,7 @@
-# 1: aobut what is knowledge exclusively conversant?
+# 1: about what is knowledge exclusively conversant?
 
 our knowledge is conversant about our ideas only
-> "Since the mind, in all its thoughts and reasonings, hat no other immediate object but its own ideas, which it along does or can contemplate, it is evident that our knowledge is only conversant about them."
+> "Since the mind, in all its thoughts and reasonings, hath no other immediate object but its own ideas, which it along does or can contemplate, it is evident that our knowledge is only conversant about them."
 
 # 2: according to Locke, of what does knowledge consist?
 
@@ -11,7 +11,11 @@ locke states that it consists of "the perception of the agreement or disagreemen
 
 ## Identity, or diversity
 
+Essentially, it is the ability to identify adn distinguish things.
+
 ## Relation
+
+It is the ability to distinguish *abstract* relations, ie. wood and steel are both volumous, massive, and substantive 
 
 ## Co-existence, or necessary connection
 
